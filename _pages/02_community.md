@@ -1,7 +1,7 @@
 
 ---
 layout: page
-title: Die Community
+title: Community
 permalink: /community/
 
 ---
