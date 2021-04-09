@@ -6,7 +6,8 @@ permalink: /verein/
 ---
 #Freie Netze München e.V.
 Was macht der Verein für Freifunk München?
-Er kümmert sich um rechtliche Verpflichtungen sowie um alles was im Hintergrund für den Betrieb einer großen Freifunk Community notwendig ist. Dazu gehören unter anderem Verträge mit Rechenzentren, anschaffen von Hardware für den Serverbetrieb sowie Versicherungen für Mitglieder.
+Er kümmert sich um rechtliche Verpflichtungen sowie um alles was im Hintergrund für den Betrieb einer großen Freifunk Community notwendig ist. 
+Dazu gehören unter anderem Verträge mit Rechenzentren, das Anschaffen von Hardware für den Serverbetrieb sowie Versicherungen für Mitglieder.
 
 #Wieso sollte ich Mitglied werden?
 Der Betrieb der Serverinfrastruktur kostet Geld, um alle Kosten decken zu können sind wir auf Schenkungen sowie Mitgliedsbeiträge angewiesen.
@@ -21,7 +22,8 @@ Vor allem wird es in Betrieb der Infrastruktur investiert. Ansonsten in gemeinsa
 Im Sinne größtmöglicher Transparenz diskutieren wir Vereinsthemen im Chat. Ansonsten gibt es noch eine Mitgliedermailingliste.
 
 #Muss ich Mitglied werden um bei Freifunk München mitzumachen?
-Um zur Community beizutragen, musst du kein Mitglied im Verein sein, unsere Treffen und Aktionen sind für alle Interessierten offen. Natürlich freuen wir uns aber, wenn du auch Mitglied im Verein wirst und uns dadurch unterstützt :).
+Um zur Community beizutragen, musst du kein Mitglied im Verein sein, unsere Treffen und Aktionen sind für alle Interessierten offen. 
+Natürlich freuen wir uns aber, wenn du auch Mitglied im Verein wirst und uns dadurch unterstützt :).
 
 #Wohin mit dem Mitgliedsantrag?
 Am Besten schickt ihr den Mitgliedsantrag per E-Mail an vorstand@fnmuc.net ansonsten geht natürlich auch der Postweg :).
